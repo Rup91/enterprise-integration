@@ -21,14 +21,18 @@ This project demonstrates a complete cloud-native integration use case - transfe
 --------------------------------------
 
 ✅ Setup Salesforce dev account with Sample data
+
 ✅ Created S3 bucker for data storage
+
 ✅ Created IAM role with proper trust policy
+
 ✅ Configured AWS AppFlow:
 
     * Salesfore -> S3
     * Mapped fields, set destination
 
 ✅ Ran the flow to export records
+
 ✅ Queried S3 files using Athena (SQL)
 
 💡 Key Learnings
